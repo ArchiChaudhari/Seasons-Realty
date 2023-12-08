@@ -1,0 +1,54 @@
+/* Customize the styles to your liking */
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .footer-section {
+    flex: 1;
+    max-width: 300px;
+    padding: 0 20px;
+    text-align: left;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 5px 0;
+  }
+  
+  a {
+    color: #ff5733;
+    text-decoration: none;
+  }
+  
+  .social-icon {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  .footer-bottom {
+    background-color: #222;
+    padding: 10px 0;
+    font-size: 14px;
+  }
+  
+  /* Add hover effects or transitions for links and social icons if desired */
+  

@@ -1,0 +1,53 @@
+
+.type{
+    width: 100%;
+    align-content: center;
+    background-color: #282c34;
+    text-align: center;
+    font-family: "Roboto Slab ExtraLight";
+}
+
+.Cards{
+    background-color: grey;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    position: center;
+    child-align: middle;
+}
+.page-footer{
+    background-color: #282c34;
+}
+.footer-copyright{
+    color:white;
+    background-color: black;
+}
+.greet{
+    text-align: center;
+    background-color: #434445;
+    color: white;
+    padding: 10px;
+}
+
+/* New color scheme */
+.card {
+    background-color: #f1c40f; /* Yellow background */
+    color: #34495e; /* Dark text color */
+    border: 1px solid #e67e22; /* Orange border */
+  }
+  
+  .card:hover {
+    background-color: #e67e22; /* Orange background on hover */
+    transform: scale(1.05); /* Enlarge the card on hover */
+  }
+  
+  /* Search input */
+  #standard-basic {
+    background-color: #3498db; /* Blue background for the search input */
+    color: #ffffff; /* White text color */
+  }
+  
+  #standard-basic:hover {
+    background-color: #2980b9; /* Darker blue background on hover */
+  }
+  

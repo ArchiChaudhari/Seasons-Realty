@@ -1,0 +1,53 @@
+.homepage {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background-image: url('images/home1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    background-color: #FF5733; /* Your button color */
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .cta-button:hover {
+    background-color: #FF4222; /* Darker color on hover */
+  }
+  
+  .content {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f0f0f0; /* Content section background color */
+  }
+  
+  .content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    font-size: 16px;
+  }
+  
